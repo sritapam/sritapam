@@ -11,7 +11,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Web Development
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;You can see my humble GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=sritapam&hide_border=true&theme=nightowl" />
