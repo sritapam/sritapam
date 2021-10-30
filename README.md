@@ -1,4 +1,4 @@
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn or Mail.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
