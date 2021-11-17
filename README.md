@@ -1,7 +1,7 @@
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn or Mail.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-PamelaPereyra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pamela-rpereyra/)](https://www.linkedin.com/in/pamela-rpereyra/)
 
